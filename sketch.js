@@ -1,3 +1,11 @@
+/*
+auteur : Dibril Thiongane
+lieu : Thies /Senegal 
+
+
+*/
+
+
 var width;
 var height;
 
